@@ -6,4 +6,4 @@ Trained on Kaggle's comprehensive dataset, our Python-powered model boasts an 88
 
 So, whether you're a prospective homeowner, a savvy investor, or simply curious about the Bengaluru real estate landscape, our model is your gateway to informed decision-making.
 
-Ready to explore Bengaluru's housing market? Dive in now and download the dataset to embark on your journey to predicting the future of Bengaluru's real estate: [Download Dataset]("kaggle datasets download -d amitabhajoy/bengaluru-house-price-data")
+Ready to explore Bengaluru's housing market? Dive in now and download the dataset to embark on your journey to predicting the future of Bengaluru's real estate: [Download Dataset](kaggle datasets download -d amitabhajoy/bengaluru-house-price-data)
