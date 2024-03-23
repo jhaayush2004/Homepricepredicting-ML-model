@@ -1,3 +1,5 @@
+My apologies for the confusion. It seems I made an error in formatting the link. Let me correct that:
+
 Welcome to the Bengaluru House Price Predictor!
 
 Are you ready to unlock the secrets behind Bengaluru's dynamic real estate market? Our state-of-the-art Machine Learning model offers a glimpse into the future, predicting house and flat prices in specific areas of Bengaluru with impressive accuracy.
@@ -6,4 +8,4 @@ Trained on Kaggle's comprehensive dataset, our Python-powered model boasts an 88
 
 So, whether you're a prospective homeowner, a savvy investor, or simply curious about the Bengaluru real estate landscape, our model is your gateway to informed decision-making.
 
-Ready to explore Bengaluru's housing market? Dive in now and download the dataset to embark on your journey to predicting the future of Bengaluru's real estate: [Download Dataset](kaggle datasets download -d amitabhajoy/bengaluru-house-price-data)
+Ready to explore Bengaluru's housing market? [Dive in now and download the dataset](https://www.kaggle.com/amitabhajoy/bengaluru-house-price-data) to embark on your journey to predicting the future of Bengaluru's real estate.
