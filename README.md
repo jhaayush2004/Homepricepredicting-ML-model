@@ -1,5 +1,3 @@
-My apologies for the confusion. It seems I made an error in formatting the link. Let me correct that:
-
 Welcome to the Bengaluru House Price Predictor!
 
 Are you ready to unlock the secrets behind Bengaluru's dynamic real estate market? Our state-of-the-art Machine Learning model offers a glimpse into the future, predicting house and flat prices in specific areas of Bengaluru with impressive accuracy.
